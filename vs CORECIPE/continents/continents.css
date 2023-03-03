@@ -1,0 +1,124 @@
+body {
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+  }
+  .header {
+    display: flex;
+    justify-content: center;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .title {
+    display: flex;
+    justify-content: center;
+    line-height: 2.5;
+    margin-top: 2px;
+  }
+  .co {
+    color:  #B3DEE5;
+    font-family: 'Montserrat', sans-serif;
+  
+  }
+  .recipe {
+    color: #628B48;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  body{
+    background-color:#fffaeb;
+  }
+  
+  .continent {
+    color: #FFB433;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 32px;
+  }
+  p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    line-height: 2;
+  }
+  
+  a:link {
+    color: #628B48;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: #628B48;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #B3DEE5;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  .tag {
+    width: 40;
+    height: 40;
+    display: inline-block;
+    position:relative;
+    top: 11px; 
+  }
+  
+  
+  
+  .samericaText{
+    font-size: 24px;
+  }
+  .namericaText{
+    font-size: 24px;
+  }
+  .europeText{
+    font-size: 24px;
+  }
+  .australia-oceaniaText{
+    font-size: 24px;
+  }
+  .asiaText{
+    font-size: 24px;
+  }
+  .africaText{
+    font-size: 24px;
+  }
+  
+  .heading {
+    width: 300;
+    height: auto;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .co{
+    color:  #B3DEE5;
+    font-size: 32px;
+    font-family: 'Montserrat', sans-serif;
+  }
+  .recipe{
+    color: #628B48;
+    font-size: 32px;
+    font-family: 'Montserrat', sans-serif;
+  }
+  a {
+    text-decoration: none;
+  }
+  
+  .keyimg {
+    width: 280;
+    height: 280;
+    display: inline-block;
+  }
+  
+  nav{
+  position: sticky;
+    top: 0;
+    z-index: 2;
+    background-color: #fffaeb;
+    height: 60px;
+    }
+  
